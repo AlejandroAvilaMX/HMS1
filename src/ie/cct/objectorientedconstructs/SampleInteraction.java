@@ -1,4 +1,5 @@
 package ie.cct.objectorientedconstructs;
+//zaray salas lopez test 1
 
 import ie.cct.objectorientedconstructs.interfaces.HotelInterface;
 import ie.cct.objectorientedconstructs.interfaces.HotelManagementSystemInterface;
